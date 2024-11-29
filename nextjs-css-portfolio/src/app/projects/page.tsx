@@ -10,10 +10,7 @@ export default function Projects(){
 
          <h1 className="intro"> <a href="https://nysquiz.com">NYS QUIZ</a></h1>
 
-               <h1 className="intro"> <a href="https://github.com/najafali14">Github </a></h1>
-           <h1 className="intro"> <a href="https://github.com/najafali14">Nextjs Projects</a></h1>
-           <h1 className="intro"> <a href="https://github.com/najafali14">GenAI Projects
-</a></h1>
+
 
 
 
