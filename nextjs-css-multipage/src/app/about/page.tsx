@@ -6,7 +6,7 @@ export default function About(){
     <div>
       <div className="main">
         <div className="about">
-   <h1 className="name">Najaf Ali </h1>
+   <h1 className="name">Rubab Fatima </h1>
 
       <p style={{fontSize:"20px",color:"yellowgreen"}}>Python Developer and Full Stack Engineer<br></br> with a strong focus on Generative AI and <br></br>innovative web development. As the <br></br>Co-Founder, CEO, and CTO of nysquiz.com, <br></br>I lead a dynamic platform <br></br>built to transform online learning through adaptive, <br></br>topic-based quizzes powered by cutting-edge AI.</p>
 
