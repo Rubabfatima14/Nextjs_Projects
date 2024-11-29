@@ -6,7 +6,7 @@ export default function Home(){
     <div>
       <div className="main">
         <div className="about">
-   <h1 className="name">Najaf Ali </h1>
+   <h1 className="name">Rubab Fatima </h1>
           
          <h1 className="intro"> Python Developer</h1>
 
