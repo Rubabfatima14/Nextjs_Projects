@@ -6,15 +6,14 @@ export default function Contact(){
     <div>
       <div className="xl:flex lg:flex md:grid sm:flex sm:pt-1 md:pt-1 lg:pt-4 xl:pt-4">
         <div className="italic">
-   <h1 className="ml-[50px] lg:mt-[60px] xl:mt-[60px] sm:mt-[2px] md:mt-[2px] text-[yellow] text-[70px] "  >Connect with Najaf Ali </h1>
+   <h1 className="ml-[50px] lg:mt-[60px] xl:mt-[60px] sm:mt-[2px] md:mt-[2px] text-[yellow] text-[70px] "  >Connect with Rubab Fatima </h1>
 
-         <h1 className="ml-[50px] text-[#84a314] text-[30px]"> <strong>Email:</strong> najafali32304@gmail.com</h1>
+         <h1 className="ml-[50px] text-[#84a314] text-[30px]"> <strong>Email:</strong> rubab.fatima8888@gmail.com@gmail.com</h1>
           <h1 className="ml-[50px] text-[#84a314] text-[30px]"> <strong>Address:</strong>Karachi Sindh, Pakistan</h1>
-          <h1 className="ml-[50px] text-[#84a314] text-[30px]"> <strong>Phone:</strong> +923041729625</h1>
-          <h1 className="ml-[50px] text-[#84a314] text-[30px]"> <strong>WhatsApp</strong> +923041729625</h1>
-          <h1 className="ml-[50px] text-[#84a314] text-[30px]"> <strong>Github:</strong> najafali14</h1>
-          <h1 className="ml-[50px] text-[#84a314] text-[30px]"> <strong>Discord:</strong> najafali14</h1>
-          <h1 className="ml-[50px] text-[#84a314] text-[30px]"> <strong>LinkedIn:</strong> najafali14</h1>
+          <h1 className="ml-[50px] text-[#84a314] text-[30px]"> <strong>Phone:</strong> +923452117948</h1>
+          <h1 className="ml-[50px] text-[#84a314] text-[30px]"> <strong>WhatsApp</strong> +923452117948</h1>
+          
+          
 
 
 
