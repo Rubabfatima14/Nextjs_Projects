@@ -12,8 +12,7 @@ export default function Projects(){
 
                <h1 className="ml-[50px] text-[#84a314] text-[40px]"> <a href="https://github.com/najafali14">Github </a></h1>
            <h1 className="ml-[50px] text-[#84a314] text-[40px]"> <a href="https://github.com/najafali14">Nextjs Projects</a></h1>
-           <h1 className="ml-[50px] text-[#84a314] text-[40px]"> <a href="https://github.com/najafali14">GenAI Projects
-</a></h1>
+           
 
           </div>
 
