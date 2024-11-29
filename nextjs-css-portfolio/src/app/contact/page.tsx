@@ -10,11 +10,9 @@ export default function Contact(){
 
          <h1 className="intro"> <strong>Email:</strong> najafali32304@gmail.com</h1>
           <h1 className="intro"> <strong>Address:</strong>Karachi Sindh, Pakistan</h1>
-          <h1 className="intro"> <strong>Phone:</strong> +923041729625</h1>
-          <h1 className="intro"> <strong>WhatsApp</strong> +923041729625</h1>
-          <h1 className="intro"> <strong>Github:</strong> najafali14</h1>
-          <h1 className="intro"> <strong>Discord:</strong> najafali14</h1>
-          <h1 className="intro"> <strong>LinkedIn:</strong> najafali14</h1>
+          <h1 className="intro"> <strong>Phone:</strong> +923452117948</h1>
+          <h1 className="intro"> <strong>WhatsApp</strong> +923452117948</h1>
+          
 
 
 
